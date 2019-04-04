@@ -1,0 +1,265 @@
+POST http://10.20.152.194:5000/api/v1/login
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+
+<> 2019-03-29T055215.400.json
+
+###
+
+POST http://10.20.152.194:5000/api/v1/login
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+
+<> 2019-03-29T055213.400.json
+
+###
+
+POST http://10.20.152.194:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T055146.400.json
+
+###
+
+POST http://10.20.152.194:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T054450.400.json
+
+###
+
+POST http://10.20.152.194:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T054445.400.json
+
+###
+
+POST http://10.20.152.194:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T054438.400.json
+
+###
+
+GET http://10.20.152.194:5000/api/v1/banner
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T054416.200.json
+
+###
+
+GET http://10.20.152.194:5000/api/v1/banner
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T054342.200.json
+
+###
+
+POST http://10.20.152.194:5000/api/v1/banner
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T054316.405.json
+
+###
+
+GET http://10.20.152.194:5000/index
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T054205.200.html
+
+###
+
+GET http://10.20.152.194:5000/index
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T054154.200.html
+
+###
+
+POST http://10.20.152.194:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T054139.400.json
+
+###
+
+POST http://10.20.152.194:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T054134.400.json
+
+###
+
+POST http://127.0.0.1:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T031235.400.json
+
+###
+
+POST http://127.0.0.1:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T031114.400.json
+
+###
+
+POST http://10.20.152.194:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+###
+
+POST http://10.20.152.194:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T105444.400.json
+
+###
+
+POST http://10.20.152.194:5000/api/v1/login
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+
+<> 2019-03-29T105350.400.json
+
+###
+
+POST http://10.20.152.194:5000/api/v1/login
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+
+<> 2019-03-29T105323.400.json
+
+###
+
+POST http://localhost:5000/api/v1/login
+Accept: */*
+Cache-Control: no-cache
+phone: 15579791843
+password: 123456
+
+<> 2019-03-29T105256.400.json
+
+###
+
+POST http://localhost:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: '15879781888'
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T104225.400.json
+
+###
+
+POST http://localhost:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: 15579782844
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T104135.400.json
+
+###
+
+POST http://localhost:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: 15579782844
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T104125.400.json
+
+###
+
+POST http://localhost:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+phone: 15579782844
+password: 123456
+email: 976393191@qq.com
+
+<> 2019-03-29T104107.400.json
+
+###
+
+POST http://localhost:5000/api/v1/register
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-29T103903.400.json
+
+###
+
